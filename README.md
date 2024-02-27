@@ -10,4 +10,4 @@ View CH33SE for play instructions.
 
 Minor spelling errors.
 
-Multiplayer is possible if multiple players take the role of mice, competing to see who can gather the most cheese. Another player can even take on the role of the chef, tossing dice onto the board to hinder or knock out the mice.
+Multiplayer is possible if multiple players take on the role of mice, competing to see who can gather the most cheese. Another player can even take on the role of the chef, tossing dice onto the board to hinder or knock out the mice.
